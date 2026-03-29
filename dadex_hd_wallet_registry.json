@@ -82,7 +82,8 @@
       "notes": [
         "Testnet/profile entry rather than a production asset chain.",
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
-        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance."
+        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/satoshilabs/slips/blob/master/slip-0044.md, https://en.bitcoin.it/wiki/Testnet."
       ]
     },
     {
@@ -124,7 +125,10 @@
         "repositories": [
           "https://github.com/litecoin-project/litecoin"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://litecoin.org, https://github.com/litecoin-project/litecoin."
+      ]
     },
     {
       "key": "dogecoin",
@@ -165,7 +169,10 @@
         "repositories": [
           "https://github.com/dogecoin/dogecoin"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://dogecoin.com, https://github.com/dogecoin/dogecoin."
+      ]
     },
     {
       "key": "reddcoin",
@@ -193,7 +200,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://reddcoin.com"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -202,7 +211,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://reddcoin.com, https://github.com/reddcoin-project/reddcoin."
       ]
     },
     {
@@ -244,7 +254,10 @@
         "repositories": [
           "https://github.com/dashpay/dash"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://dash.org, https://docs.dash.org/."
+      ]
     },
     {
       "key": "peercoin",
@@ -272,7 +285,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://peercoin.net"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -281,7 +296,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://peercoin.net, https://github.com/peercoin/peercoin."
       ]
     },
     {
@@ -322,7 +338,8 @@
       },
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
-        "Namecoin official FAQ added for authoritative project documentation."
+        "Namecoin official FAQ added for authoritative project documentation.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://www.namecoin.org/docs/faq/, https://github.com/namecoin/namecoin-core."
       ]
     },
     {
@@ -351,7 +368,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://feathercoin.com"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -360,7 +379,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://feathercoin.com, https://github.com/FeatherCoin/Feathercoin."
       ]
     },
     {
@@ -389,7 +409,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://counterparty.io"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -398,7 +420,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://counterparty.io, https://github.com/CounterpartyXCP/counterparty-core."
       ]
     },
     {
@@ -427,7 +450,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://blackcoin.org"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -436,7 +461,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://blackcoin.org, https://github.com/blackcoin/blackcoin-more."
       ]
     },
     {
@@ -474,7 +500,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://nubits.com, https://github.com/NuNetwork/NuBits."
       ]
     },
     {
@@ -512,7 +539,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://nubits.com, https://github.com/NuNetwork/NuBits."
       ]
     },
     {
@@ -550,7 +578,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://mazacoin.org, https://github.com/maza-coin/maza."
       ]
     },
     {
@@ -592,7 +621,10 @@
         "repositories": [
           "https://github.com/viacoin/viacoin"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://viacoin.org, https://github.com/viacoin/viacoin."
+      ]
     },
     {
       "key": "clearinghouse",
@@ -627,7 +659,10 @@
         ],
         "explorers": [],
         "repositories": []
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/ClearingHouse/clearinghoused, https://github.com/ClearingHouse."
+      ]
     },
     {
       "key": "rubycoin",
@@ -664,7 +699,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/rubycoinorg/rubycoin, https://rubycoin.org."
       ]
     },
     {
@@ -706,7 +742,10 @@
         "repositories": [
           "https://github.com/Groestlcoin/groestlcoin"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://www.groestlcoin.org, https://github.com/Groestlcoin/groestlcoin."
+      ]
     },
     {
       "key": "digitalcoin",
@@ -743,7 +782,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://digitalcoin.co, https://github.com/digitalcoin-project/digitalcoin."
       ]
     },
     {
@@ -781,7 +821,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://cannacoin.org, https://github.com/cannacoin-official/cannacoin."
       ]
     },
     {
@@ -823,7 +864,10 @@
         "repositories": [
           "https://github.com/DigiByte-Core/digibyte"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://www.digibyte.io, https://github.com/DigiByte-Core/digibyte."
+      ]
     },
     {
       "key": "open-assets",
@@ -851,7 +895,9 @@
         "isProtocolOnly": true
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/OpenAssets/open-assets-protocol"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -861,7 +907,8 @@
       },
       "notes": [
         "Handled as protocol-only to avoid pretending it is a standalone addressable chain.",
-        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance."
+        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/OpenAssets/open-assets-protocol, https://openassets.org."
       ]
     },
     {
@@ -903,7 +950,10 @@
         "repositories": [
           "https://github.com/monacoinproject/monacoin"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://monacoin.org, https://github.com/monacoinproject/monacoin."
+      ]
     },
     {
       "key": "clams",
@@ -940,7 +990,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/nochowderforyou/clams, https://clamcoin.org."
       ]
     },
     {
@@ -969,7 +1020,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://primecoin.io"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -978,7 +1031,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://primecoin.io, https://github.com/primecoin/primecoin."
       ]
     },
     {
@@ -1016,7 +1070,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://neoscoin.com, https://github.com/neoscoin/neoscoin."
       ]
     },
     {
@@ -1054,7 +1109,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://jumbucks.live, https://github.com/jumbucks/jumbucks."
       ]
     },
     {
@@ -1092,7 +1148,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://ziftrcoin.com, https://github.com/ziftr/ziftrcoin."
       ]
     },
     {
@@ -1121,7 +1178,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://vertcoin.org"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1130,7 +1189,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://vertcoin.org, https://github.com/vertcoin-project/vertcoin-core."
       ]
     },
     {
@@ -1168,7 +1228,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://www.jelurida.com/nxt, https://github.com/ardornxtgroup/nxt."
       ]
     },
     {
@@ -1206,7 +1267,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://burst-coin.org, https://github.com/burst-apps-team/burstcoin."
       ]
     },
     {
@@ -1244,7 +1306,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://monetaryunit.org, https://github.com/muecoin/MUE."
       ]
     },
     {
@@ -1282,7 +1345,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://zoomcoin.us, https://github.com/zoomcrypto/zoom."
       ]
     },
     {
@@ -1320,7 +1384,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://virtualcash.org, https://github.com/virtualcash/virtualcash."
       ]
     },
     {
@@ -1358,7 +1423,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://canadaecoin.ca, https://github.com/canadaecoin/canadaecoin."
       ]
     },
     {
@@ -1396,7 +1462,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://shadowproject.io, https://github.com/ShadowProject/Shadow."
       ]
     },
     {
@@ -1434,7 +1501,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://parkbyte.com, https://github.com/parkbyte/parkbyte."
       ]
     },
     {
@@ -1472,7 +1540,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://pandacoin.tech, https://github.com/pandacoin-official/pandacoin."
       ]
     },
     {
@@ -1510,7 +1579,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://startcoin.org, https://github.com/startcoin-project/startcoin."
       ]
     },
     {
@@ -1548,7 +1618,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://moincoin.org, https://github.com/moin-project/moin."
       ]
     },
     {
@@ -1586,7 +1657,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://expanse.tech, https://github.com/expanse-org/go-expanse."
       ]
     },
     {
@@ -1624,7 +1696,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://einsteinium.org, https://github.com/emc2foundation/emc2."
       ]
     },
     {
@@ -1667,7 +1740,10 @@
         "repositories": [
           "https://github.com/decred/dcrd"
         ]
-      }
+      },
+      "notes": [
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://decred.org, https://docs.decred.org/."
+      ]
     },
     {
       "key": "nem",
@@ -1695,7 +1771,10 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://nem.io",
+          "https://docs.nem.io/"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1704,7 +1783,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://nem.io, https://docs.nem.io/."
       ]
     },
     {
@@ -1733,7 +1813,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://particl.io"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1742,7 +1824,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://particl.io, https://academy.particl.io/."
       ]
     },
     {
@@ -1781,7 +1864,8 @@
       },
       "notes": [
         "Marked as dead directly in SLIP-0044.",
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/argentumproject/argentum, https://argentum.io."
       ]
     },
     {
@@ -1820,7 +1904,8 @@
       },
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
-        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance."
+        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://libertas.network, https://github.com/libertas-project/libertas."
       ]
     },
     {
@@ -1859,7 +1944,8 @@
       },
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
-        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance."
+        "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://posw.io, https://github.com/poswallet/posw."
       ]
     },
     {
@@ -1897,7 +1983,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://shreejicoin.org, https://github.com/shreejicoin/shreeji."
       ]
     },
     {
@@ -1935,7 +2022,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://gcrcoin.com, https://github.com/gcrcoin/gcr."
       ]
     },
     {
@@ -1964,7 +2052,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://novacoin.org"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1973,7 +2063,8 @@
         "repositories": []
       },
       "notes": [
-        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement."
+        "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
+        "Batch 1..50 rerun (2026-03-29): checked public sources: https://novacoin.org, https://github.com/novacoin-project/novacoin."
       ]
     },
     {

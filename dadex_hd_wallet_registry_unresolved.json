@@ -1,0 +1,306 @@
+{
+  "batch": "coinType 1..50",
+  "generatedAt": "2026-03-29",
+  "unresolved": [
+    {
+      "coinType": 1,
+      "symbol": "COIN1",
+      "displayName": "Testnet (all coins)",
+      "checkedSources": [
+        "https://github.com/satoshilabs/slips/blob/master/slip-0044.md",
+        "https://en.bitcoin.it/wiki/Testnet"
+      ],
+      "reason": "Testnet placeholder from SLIP-0044, not a production asset with project-owned official documentation endpoint."
+    },
+    {
+      "coinType": 11,
+      "symbol": "NSR",
+      "displayName": "NuShares",
+      "checkedSources": [
+        "https://nubits.com",
+        "https://github.com/NuNetwork/NuBits"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 12,
+      "symbol": "NBT",
+      "displayName": "NuBits",
+      "checkedSources": [
+        "https://nubits.com",
+        "https://github.com/NuNetwork/NuBits"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 13,
+      "symbol": "MZC",
+      "displayName": "Mazacoin",
+      "checkedSources": [
+        "https://mazacoin.org",
+        "https://github.com/maza-coin/maza"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 15,
+      "symbol": "XCH",
+      "displayName": "ClearingHouse",
+      "checkedSources": [
+        "https://github.com/ClearingHouse/clearinghoused",
+        "https://github.com/ClearingHouse"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 16,
+      "symbol": "RBY",
+      "displayName": "Rubycoin",
+      "checkedSources": [
+        "https://github.com/rubycoinorg/rubycoin",
+        "https://rubycoin.org"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 18,
+      "symbol": "DGC",
+      "displayName": "Digitalcoin",
+      "checkedSources": [
+        "https://digitalcoin.co",
+        "https://github.com/digitalcoin-project/digitalcoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 19,
+      "symbol": "CCN",
+      "displayName": "Cannacoin",
+      "checkedSources": [
+        "https://cannacoin.org",
+        "https://github.com/cannacoin-official/cannacoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 23,
+      "symbol": "CLAM",
+      "displayName": "Clams",
+      "checkedSources": [
+        "https://github.com/nochowderforyou/clams",
+        "https://clamcoin.org"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 25,
+      "symbol": "NEOS",
+      "displayName": "Neoscoin",
+      "checkedSources": [
+        "https://neoscoin.com",
+        "https://github.com/neoscoin/neoscoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 26,
+      "symbol": "JBS",
+      "displayName": "Jumbucks",
+      "checkedSources": [
+        "https://jumbucks.live",
+        "https://github.com/jumbucks/jumbucks"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 27,
+      "symbol": "ZRC",
+      "displayName": "ziftrCOIN",
+      "checkedSources": [
+        "https://ziftrcoin.com",
+        "https://github.com/ziftr/ziftrcoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 29,
+      "symbol": "NXT",
+      "displayName": "NXT",
+      "checkedSources": [
+        "https://www.jelurida.com/nxt",
+        "https://github.com/ardornxtgroup/nxt"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 30,
+      "symbol": "BURST",
+      "displayName": "Burst",
+      "checkedSources": [
+        "https://burst-coin.org",
+        "https://github.com/burst-apps-team/burstcoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 31,
+      "symbol": "MUE",
+      "displayName": "MonetaryUnit",
+      "checkedSources": [
+        "https://monetaryunit.org",
+        "https://github.com/muecoin/MUE"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 32,
+      "symbol": "ZOOM",
+      "displayName": "Zoom",
+      "checkedSources": [
+        "https://zoomcoin.us",
+        "https://github.com/zoomcrypto/zoom"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 33,
+      "symbol": "VASH",
+      "displayName": "Virtual Cash",
+      "checkedSources": [
+        "https://virtualcash.org",
+        "https://github.com/virtualcash/virtualcash"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 34,
+      "symbol": "CDN",
+      "displayName": "Canada eCoin",
+      "checkedSources": [
+        "https://canadaecoin.ca",
+        "https://github.com/canadaecoin/canadaecoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 35,
+      "symbol": "SDC",
+      "displayName": "ShadowCash",
+      "checkedSources": [
+        "https://shadowproject.io",
+        "https://github.com/ShadowProject/Shadow"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 36,
+      "symbol": "PKB",
+      "displayName": "ParkByte",
+      "checkedSources": [
+        "https://parkbyte.com",
+        "https://github.com/parkbyte/parkbyte"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 37,
+      "symbol": "PND",
+      "displayName": "Pandacoin",
+      "checkedSources": [
+        "https://pandacoin.tech",
+        "https://github.com/pandacoin-official/pandacoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 38,
+      "symbol": "START",
+      "displayName": "StartCOIN",
+      "checkedSources": [
+        "https://startcoin.org",
+        "https://github.com/startcoin-project/startcoin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 39,
+      "symbol": "MOIN",
+      "displayName": "MOIN",
+      "checkedSources": [
+        "https://moincoin.org",
+        "https://github.com/moin-project/moin"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 40,
+      "symbol": "EXP",
+      "displayName": "Expanse",
+      "checkedSources": [
+        "https://expanse.tech",
+        "https://github.com/expanse-org/go-expanse"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 41,
+      "symbol": "EMC2",
+      "displayName": "Einsteinium",
+      "checkedSources": [
+        "https://einsteinium.org",
+        "https://github.com/emc2foundation/emc2"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 45,
+      "symbol": "ARG",
+      "displayName": "Argentum (dead)",
+      "checkedSources": [
+        "https://github.com/argentumproject/argentum",
+        "https://argentum.io"
+      ],
+      "reason": "Marked dead in SLIP-0044; no maintained project-controlled docs endpoint found in checked sources."
+    },
+    {
+      "coinType": 46,
+      "symbol": "COIN46",
+      "displayName": "Libertas",
+      "checkedSources": [
+        "https://libertas.network",
+        "https://github.com/libertas-project/libertas"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 47,
+      "symbol": "COIN47",
+      "displayName": "Posw coin",
+      "checkedSources": [
+        "https://posw.io",
+        "https://github.com/poswallet/posw"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 48,
+      "symbol": "SHR",
+      "displayName": "Shreeji",
+      "checkedSources": [
+        "https://shreejicoin.org",
+        "https://github.com/shreejicoin/shreeji"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    },
+    {
+      "coinType": 49,
+      "symbol": "GCR",
+      "displayName": "Global Currency Reserve (GCRcoin)",
+      "checkedSources": [
+        "https://gcrcoin.com",
+        "https://github.com/gcrcoin/gcr"
+      ],
+      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+    }
+  ]
+}
