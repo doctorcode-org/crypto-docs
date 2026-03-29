@@ -1,12 +1,18 @@
 # DADEx HD Wallet Registry Report
 
-## Batch rerun
+## Batch reconciliation (derived from current JSON files)
 - Scope: coinType 1..50 only
 - Date: 2026-03-29
-- Entries with verified officialDocs in this batch: 20
-- Entries unresolved in this batch: 30
+- Entries in batch 1..50: 50
+- Entries in 1..50 with at least one officialDocs URL: 0
+- Unresolved entries in 1..50: 30
 
-## Unresolved entries (with checked public sources)
+## Top unresolved reasons (1..50)
+- 28: No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources.
+- 1: Testnet placeholder from SLIP-0044, not a production asset with project-owned official documentation endpoint.
+- 1: Marked dead in SLIP-0044; no maintained project-controlled docs endpoint found in checked sources.
+
+## Unresolved entries (1..50, from unresolved JSON)
 
 ### 1 COIN1 — Testnet (all coins)
 - Reason: Testnet placeholder from SLIP-0044, not a production asset with project-owned official documentation endpoint.
@@ -187,4 +193,3 @@
 - Checked sources:
   - https://gcrcoin.com
   - https://github.com/gcrcoin/gcr
-
