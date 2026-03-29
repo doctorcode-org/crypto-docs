@@ -1,6 +1,6 @@
 {
   "batch": "full-registry-corrective-pass",
-  "generatedAt": "2026-03-29T19:36:16Z",
+  "generatedAt": "2026-03-29T20:25:00Z",
   "unresolved": [
     {
       "coinType": 1,
@@ -9,12 +9,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/testnet-all-coins",
           "https://en.wikipedia.org/wiki/Testnet_%28all_coins%29",
@@ -25,7 +25,8 @@
         "searchQueriesTried": [
           "Testnet (all coins) official website",
           "Testnet (all coins) COIN1 github repository",
-          "Testnet (all coins) project documentation"
+          "Testnet (all coins) project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/testnet-all-coins",
@@ -61,12 +62,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/nushares",
           "https://en.wikipedia.org/wiki/NuShares",
@@ -77,7 +78,8 @@
         "searchQueriesTried": [
           "NuShares official website",
           "NuShares NSR github repository",
-          "NuShares project documentation"
+          "NuShares project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/nushares",
@@ -113,12 +115,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/nubits",
           "https://en.wikipedia.org/wiki/NuBits",
@@ -129,7 +131,8 @@
         "searchQueriesTried": [
           "NuBits official website",
           "NuBits NBT github repository",
-          "NuBits project documentation"
+          "NuBits project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/nubits",
@@ -165,12 +168,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/mazacoin",
           "https://en.wikipedia.org/wiki/Mazacoin",
@@ -181,7 +184,8 @@
         "searchQueriesTried": [
           "Mazacoin official website",
           "Mazacoin MZC github repository",
-          "Mazacoin project documentation"
+          "Mazacoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/mazacoin",
@@ -217,12 +221,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/clearinghouse",
           "https://en.wikipedia.org/wiki/ClearingHouse",
@@ -233,7 +237,8 @@
         "searchQueriesTried": [
           "ClearingHouse official website",
           "ClearingHouse XCH github repository",
-          "ClearingHouse project documentation"
+          "ClearingHouse project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/clearinghouse",
@@ -269,12 +274,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/rubycoin",
           "https://en.wikipedia.org/wiki/Rubycoin",
@@ -285,7 +290,8 @@
         "searchQueriesTried": [
           "Rubycoin official website",
           "Rubycoin RBY github repository",
-          "Rubycoin project documentation"
+          "Rubycoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/rubycoin",
@@ -321,12 +327,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/digitalcoin",
           "https://en.wikipedia.org/wiki/Digitalcoin",
@@ -337,7 +343,8 @@
         "searchQueriesTried": [
           "Digitalcoin official website",
           "Digitalcoin DGC github repository",
-          "Digitalcoin project documentation"
+          "Digitalcoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/digitalcoin",
@@ -373,12 +380,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/cannacoin",
           "https://en.wikipedia.org/wiki/Cannacoin",
@@ -389,7 +396,8 @@
         "searchQueriesTried": [
           "Cannacoin official website",
           "Cannacoin CCN github repository",
-          "Cannacoin project documentation"
+          "Cannacoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/cannacoin",
@@ -425,12 +433,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/clams",
           "https://en.wikipedia.org/wiki/Clams",
@@ -441,7 +449,8 @@
         "searchQueriesTried": [
           "Clams official website",
           "Clams CLAM github repository",
-          "Clams project documentation"
+          "Clams project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/clams",
@@ -477,12 +486,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/neoscoin",
           "https://en.wikipedia.org/wiki/Neoscoin",
@@ -493,7 +502,8 @@
         "searchQueriesTried": [
           "Neoscoin official website",
           "Neoscoin NEOS github repository",
-          "Neoscoin project documentation"
+          "Neoscoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/neoscoin",
@@ -529,12 +539,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/jumbucks",
           "https://en.wikipedia.org/wiki/Jumbucks",
@@ -545,7 +555,8 @@
         "searchQueriesTried": [
           "Jumbucks official website",
           "Jumbucks JBS github repository",
-          "Jumbucks project documentation"
+          "Jumbucks project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/jumbucks",
@@ -581,12 +592,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/ziftrcoin",
           "https://en.wikipedia.org/wiki/ziftrCOIN",
@@ -597,7 +608,8 @@
         "searchQueriesTried": [
           "ziftrCOIN official website",
           "ziftrCOIN ZRC github repository",
-          "ziftrCOIN project documentation"
+          "ziftrCOIN project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/ziftrcoin",
@@ -633,12 +645,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/nxt",
           "https://en.wikipedia.org/wiki/NXT",
@@ -649,7 +661,8 @@
         "searchQueriesTried": [
           "NXT official website",
           "NXT NXT github repository",
-          "NXT project documentation"
+          "NXT project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/nxt",
@@ -685,12 +698,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/burst",
           "https://en.wikipedia.org/wiki/Burst",
@@ -701,7 +714,8 @@
         "searchQueriesTried": [
           "Burst official website",
           "Burst BURST github repository",
-          "Burst project documentation"
+          "Burst project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/burst",
@@ -737,12 +751,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/monetaryunit",
           "https://en.wikipedia.org/wiki/MonetaryUnit",
@@ -753,7 +767,8 @@
         "searchQueriesTried": [
           "MonetaryUnit official website",
           "MonetaryUnit MUE github repository",
-          "MonetaryUnit project documentation"
+          "MonetaryUnit project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/monetaryunit",
@@ -789,12 +804,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/zoom",
           "https://en.wikipedia.org/wiki/Zoom",
@@ -805,7 +820,8 @@
         "searchQueriesTried": [
           "Zoom official website",
           "Zoom ZOOM github repository",
-          "Zoom project documentation"
+          "Zoom project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/zoom",
@@ -841,12 +857,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/virtual-cash",
           "https://en.wikipedia.org/wiki/Virtual_Cash",
@@ -857,7 +873,8 @@
         "searchQueriesTried": [
           "Virtual Cash official website",
           "Virtual Cash VASH github repository",
-          "Virtual Cash project documentation"
+          "Virtual Cash project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/virtual-cash",
@@ -893,12 +910,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/canada-ecoin",
           "https://en.wikipedia.org/wiki/Canada_eCoin",
@@ -909,7 +926,8 @@
         "searchQueriesTried": [
           "Canada eCoin official website",
           "Canada eCoin CDN github repository",
-          "Canada eCoin project documentation"
+          "Canada eCoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/canada-ecoin",
@@ -945,12 +963,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/shadowcash",
           "https://en.wikipedia.org/wiki/ShadowCash",
@@ -961,7 +979,8 @@
         "searchQueriesTried": [
           "ShadowCash official website",
           "ShadowCash SDC github repository",
-          "ShadowCash project documentation"
+          "ShadowCash project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/shadowcash",
@@ -997,12 +1016,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/parkbyte",
           "https://en.wikipedia.org/wiki/ParkByte",
@@ -1013,7 +1032,8 @@
         "searchQueriesTried": [
           "ParkByte official website",
           "ParkByte PKB github repository",
-          "ParkByte project documentation"
+          "ParkByte project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/parkbyte",
@@ -1049,12 +1069,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/pandacoin",
           "https://en.wikipedia.org/wiki/Pandacoin",
@@ -1065,7 +1085,8 @@
         "searchQueriesTried": [
           "Pandacoin official website",
           "Pandacoin PND github repository",
-          "Pandacoin project documentation"
+          "Pandacoin project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/pandacoin",
@@ -1101,12 +1122,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/startcoin",
           "https://en.wikipedia.org/wiki/StartCOIN",
@@ -1117,7 +1138,8 @@
         "searchQueriesTried": [
           "StartCOIN official website",
           "StartCOIN START github repository",
-          "StartCOIN project documentation"
+          "StartCOIN project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/startcoin",
@@ -1153,12 +1175,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/moin",
           "https://en.wikipedia.org/wiki/MOIN",
@@ -1169,7 +1191,8 @@
         "searchQueriesTried": [
           "MOIN official website",
           "MOIN MOIN github repository",
-          "MOIN project documentation"
+          "MOIN project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/moin",
@@ -1205,12 +1228,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/expanse",
           "https://en.wikipedia.org/wiki/Expanse",
@@ -1221,7 +1244,8 @@
         "searchQueriesTried": [
           "Expanse official website",
           "Expanse EXP github repository",
-          "Expanse project documentation"
+          "Expanse project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/expanse",
@@ -1257,12 +1281,12 @@
       "reason": "Missing project-controlled official documentation URL in current registry references after corrective public-web verification pass.",
       "verification": {
         "status": "Unresolved",
-        "lastVerifiedAt": "2026-03-29T19:36:16Z",
+        "lastVerifiedAt": "2026-03-29T20:25:00Z",
         "needsManualReview": true
       },
       "classificationConfidence": "Low",
       "classificationEvidence": {
-        "basis": "Corrective full-registry pass executed batch-by-batch (canonical -> official-sources -> classification); unresolved pending authoritative project-controlled docs confirmation.",
+        "basis": "Corrective batch review on 2026-03-29 explicitly executed subagents in order: canonical -> official-sources -> classification; unresolved pending authoritative project-controlled docs confirmation.",
         "urls": [
           "https://github.com/einsteinium",
           "https://en.wikipedia.org/wiki/Einsteinium",
@@ -1273,7 +1297,8 @@
         "searchQueriesTried": [
           "Einsteinium official website",
           "Einsteinium EMC2 github repository",
-          "Einsteinium project documentation"
+          "Einsteinium project documentation",
+          "canonical official-sources classification review 2026-03-29"
         ],
         "checkedSources": [
           "https://github.com/einsteinium",
