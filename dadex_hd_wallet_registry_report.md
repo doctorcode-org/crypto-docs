@@ -3,13 +3,13 @@
 - Generated at: 2026-03-29T00:00:00Z
 - Total entries in registry: 1321
 - Processed entries: 1321
-- Resolved entries: 192
-- Unresolved entries: 1129
-- Entries with `officialDocs`: 192
-- Entries requiring manual review: 1129
+- Resolved entries: 206
+- Unresolved entries: 1115
+- Entries with `officialDocs`: 206
+- Entries requiring manual review: 1115
 
 ## Top unresolved reasons
-- Missing project-controlled official documentation URL in current registry references. (1126)
+- Missing project-controlled official documentation URL in current registry references. (1112)
 - Historical/dead asset with no currently verifiable project-controlled docs endpoint in current registry references. (2)
 - Official repository present but no verified project-controlled docs/site URL in current registry references. (1)
 
