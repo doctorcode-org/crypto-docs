@@ -56,7 +56,7 @@
         "kind": "Primary",
         "canonicalChainKey": "testnet-all-coins",
         "confidence": "ProjectPolicy",
-        "reason": "SLIP-0044 row has empty symbol; placeholder symbol set by project policy while preserving canonical coinType/displayName."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -96,7 +96,7 @@
         "kind": "Primary",
         "canonicalChainKey": "litecoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -137,7 +137,7 @@
         "kind": "Primary",
         "canonicalChainKey": "dogecoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -178,7 +178,7 @@
         "kind": "Primary",
         "canonicalChainKey": "reddcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -216,7 +216,7 @@
         "kind": "Primary",
         "canonicalChainKey": "dash",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -257,7 +257,7 @@
         "kind": "Primary",
         "canonicalChainKey": "peercoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -295,7 +295,7 @@
         "kind": "Primary",
         "canonicalChainKey": "namecoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -336,7 +336,7 @@
         "kind": "Primary",
         "canonicalChainKey": "feathercoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -374,7 +374,7 @@
         "kind": "Primary",
         "canonicalChainKey": "counterparty",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -412,7 +412,7 @@
         "kind": "Primary",
         "canonicalChainKey": "blackcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -450,7 +450,7 @@
         "kind": "Primary",
         "canonicalChainKey": "nushares",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -488,7 +488,7 @@
         "kind": "Primary",
         "canonicalChainKey": "nubits",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -526,7 +526,7 @@
         "kind": "Primary",
         "canonicalChainKey": "mazacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -564,7 +564,7 @@
         "kind": "Primary",
         "canonicalChainKey": "viacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -605,7 +605,7 @@
         "kind": "Primary",
         "canonicalChainKey": "clearinghouse",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "chia",
@@ -640,7 +640,7 @@
         "kind": "Primary",
         "canonicalChainKey": "rubycoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -678,7 +678,7 @@
         "kind": "Primary",
         "canonicalChainKey": "groestlcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -719,7 +719,7 @@
         "kind": "Primary",
         "canonicalChainKey": "digitalcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -757,7 +757,7 @@
         "kind": "Primary",
         "canonicalChainKey": "cannacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -795,7 +795,7 @@
         "kind": "Primary",
         "canonicalChainKey": "digibyte",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -836,7 +836,7 @@
         "kind": "Primary",
         "canonicalChainKey": "open-assets",
         "confidence": "ProjectPolicy",
-        "reason": "SLIP-0044 row has empty symbol; placeholder symbol set by project policy while preserving canonical coinType/displayName."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "protocol",
@@ -875,7 +875,7 @@
         "kind": "Primary",
         "canonicalChainKey": "monacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "utxo",
@@ -916,7 +916,7 @@
         "kind": "Primary",
         "canonicalChainKey": "clams",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -954,7 +954,7 @@
         "kind": "Primary",
         "canonicalChainKey": "primecoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -992,7 +992,7 @@
         "kind": "Primary",
         "canonicalChainKey": "neoscoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1030,7 +1030,7 @@
         "kind": "Primary",
         "canonicalChainKey": "jumbucks",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1068,7 +1068,7 @@
         "kind": "Primary",
         "canonicalChainKey": "ziftrcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1106,7 +1106,7 @@
         "kind": "Primary",
         "canonicalChainKey": "vertcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1144,7 +1144,7 @@
         "kind": "Primary",
         "canonicalChainKey": "nxt",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1182,7 +1182,7 @@
         "kind": "Primary",
         "canonicalChainKey": "burst",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1220,7 +1220,7 @@
         "kind": "Primary",
         "canonicalChainKey": "monetaryunit",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1258,7 +1258,7 @@
         "kind": "Primary",
         "canonicalChainKey": "zoom",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1296,7 +1296,7 @@
         "kind": "Primary",
         "canonicalChainKey": "virtual-cash",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1334,7 +1334,7 @@
         "kind": "Primary",
         "canonicalChainKey": "canada-ecoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1372,7 +1372,7 @@
         "kind": "Primary",
         "canonicalChainKey": "shadowcash",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1410,7 +1410,7 @@
         "kind": "Primary",
         "canonicalChainKey": "parkbyte",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1448,7 +1448,7 @@
         "kind": "Primary",
         "canonicalChainKey": "pandacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1486,7 +1486,7 @@
         "kind": "Primary",
         "canonicalChainKey": "startcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1524,7 +1524,7 @@
         "kind": "Primary",
         "canonicalChainKey": "moin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1562,7 +1562,7 @@
         "kind": "Primary",
         "canonicalChainKey": "expanse",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1600,7 +1600,7 @@
         "kind": "Primary",
         "canonicalChainKey": "einsteinium",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1638,7 +1638,7 @@
         "kind": "Primary",
         "canonicalChainKey": "decred",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; official docs retained from project-controlled sources."
       },
       "address": {
         "profileKey": "decred",
@@ -1680,7 +1680,7 @@
         "kind": "Primary",
         "canonicalChainKey": "nem",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1718,7 +1718,7 @@
         "kind": "Primary",
         "canonicalChainKey": "particl",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1756,7 +1756,7 @@
         "kind": "Legacy",
         "canonicalChainKey": "argentum-dead",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1795,7 +1795,7 @@
         "kind": "Primary",
         "canonicalChainKey": "libertas",
         "confidence": "ProjectPolicy",
-        "reason": "SLIP-0044 row has empty symbol; placeholder symbol set by project policy while preserving canonical coinType/displayName."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1834,7 +1834,7 @@
         "kind": "Primary",
         "canonicalChainKey": "posw-coin",
         "confidence": "ProjectPolicy",
-        "reason": "SLIP-0044 row has empty symbol; placeholder symbol set by project policy while preserving canonical coinType/displayName."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1873,7 +1873,7 @@
         "kind": "Primary",
         "canonicalChainKey": "shreeji",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1911,7 +1911,7 @@
         "kind": "Primary",
         "canonicalChainKey": "global-currency-reserve-gcrcoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
@@ -1949,7 +1949,7 @@
         "kind": "Primary",
         "canonicalChainKey": "novacoin",
         "confidence": "Official",
-        "reason": "Canonical identity verified against SLIP-0044 and registry policy for one entry per coin type."
+        "reason": "Batch 1..50 canonical/official-sources/classification review completed; unresolved officialDocs kept per policy."
       },
       "address": {
         "profileKey": "utxo",
