@@ -193,7 +193,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/reddcoin-project/reddcoin"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -272,7 +274,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/peercoin/peercoin"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -351,7 +355,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/Feathercoin/Feathercoin"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -389,7 +395,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/CounterpartyXCP"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -969,7 +977,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/primecoin/primecoin"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1121,7 +1131,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/vertcoin-project/vertcoin-core"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1159,7 +1171,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/ardornxtgroup/nxt"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1577,7 +1591,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/expanse-org"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1615,7 +1631,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/Einsteinium"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1695,7 +1713,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/NemProject"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1733,7 +1753,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/particl/particl-core"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
@@ -1964,7 +1986,9 @@
         "isProtocolOnly": false
       },
       "references": {
-        "officialDocs": [],
+        "officialDocs": [
+          "https://github.com/novacoin-project/novacoin"
+        ],
         "specs": [
           "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"

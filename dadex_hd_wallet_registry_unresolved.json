@@ -8,66 +8,11 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=SLIP-0044+coinType+1+testnet"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 4,
-    "symbol": "RDD",
-    "displayName": "Reddcoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 6,
-    "symbol": "PPC",
-    "displayName": "Peercoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 8,
-    "symbol": "FTC",
-    "displayName": "Feathercoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 9,
-    "symbol": "XCP",
-    "displayName": "Counterparty",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 10,
@@ -78,10 +23,13 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Blackcoin+official+website",
+      "https://blackcoin.org/",
+      "https://github.com/blackcoin-project/blackcoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 11,
@@ -92,10 +40,13 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=NuShares+official+website",
+      "https://nubits.com/",
+      "https://docs.nubits.com/"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 12,
@@ -106,10 +57,13 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=NuBits+official+website",
+      "https://nubits.com/",
+      "https://docs.nubits.com/"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 13,
@@ -120,10 +74,13 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Mazacoin+official+website",
+      "https://mazacoin.org/",
+      "https://github.com/search?q=Mazacoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 15,
@@ -134,10 +91,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=ClearingHouse+XCH+crypto+official",
+      "https://github.com/search?q=ClearingHouse+XCH"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 16,
@@ -148,10 +107,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Rubycoin+official+website",
+      "https://github.com/search?q=Rubycoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 18,
@@ -162,10 +123,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Digitalcoin+DGC+official+website",
+      "https://github.com/search?q=Digitalcoin+DGC"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 19,
@@ -176,10 +139,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Cannacoin+official+website",
+      "https://github.com/search?q=Cannacoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 21,
@@ -190,10 +155,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Open+Assets+protocol+official+docs",
+      "https://github.com/OpenAssets"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 23,
@@ -204,24 +171,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Clams+coin+official+website",
+      "https://github.com/search?q=Clams+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 24,
-    "symbol": "XPM",
-    "displayName": "Primecoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 25,
@@ -232,10 +187,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Neoscoin+official+website",
+      "https://github.com/search?q=Neoscoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 26,
@@ -246,10 +203,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Jumbucks+coin+official+website",
+      "https://github.com/search?q=Jumbucks"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 27,
@@ -260,38 +219,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=ziftrCOIN+official+website",
+      "https://github.com/search?q=ziftrCOIN"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 28,
-    "symbol": "VTC",
-    "displayName": "Vertcoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 29,
-    "symbol": "NXT",
-    "displayName": "NXT",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 30,
@@ -302,10 +235,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Burstcoin+official+website",
+      "https://github.com/search?q=Burstcoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 31,
@@ -316,10 +251,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=MonetaryUnit+MUE+official+website",
+      "https://github.com/search?q=MonetaryUnit+MUE"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 32,
@@ -330,10 +267,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Zoomcoin+official+website",
+      "https://github.com/search?q=Zoomcoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 33,
@@ -344,10 +283,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Virtual+Cash+VASH+official+website",
+      "https://github.com/search?q=Virtual+Cash+VASH"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 34,
@@ -358,10 +299,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Canada+eCoin+CDN+official+website",
+      "https://github.com/search?q=Canada+eCoin+CDN"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 35,
@@ -372,10 +315,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=ShadowCash+official+website",
+      "https://github.com/search?q=ShadowCash"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 36,
@@ -386,10 +331,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=ParkByte+official+website",
+      "https://github.com/search?q=ParkByte"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 37,
@@ -400,10 +347,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Pandacoin+PND+official+website",
+      "https://github.com/search?q=Pandacoin+PND"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 38,
@@ -414,10 +363,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=StartCOIN+official+website",
+      "https://github.com/search?q=StartCOIN"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 39,
@@ -428,66 +379,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=MOIN+coin+official+website",
+      "https://github.com/search?q=MOIN+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 40,
-    "symbol": "EXP",
-    "displayName": "Expanse",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 41,
-    "symbol": "EMC2",
-    "displayName": "Einsteinium",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 43,
-    "symbol": "XEM",
-    "displayName": "NEM",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 44,
-    "symbol": "PART",
-    "displayName": "Particl",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 45,
@@ -498,10 +395,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Argentum+ARG+coin+official+website",
+      "https://github.com/search?q=Argentum+ARG+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 46,
@@ -512,10 +411,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Libertas+coin+official+website",
+      "https://github.com/search?q=Libertas+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 47,
@@ -526,10 +427,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=POSW+coin+official+website",
+      "https://github.com/search?q=POSW+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 48,
@@ -540,10 +443,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=Shreeji+coin+official+website",
+      "https://github.com/search?q=Shreeji+coin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 49,
@@ -554,24 +459,12 @@
     ],
     "sourcesChecked": [
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
+      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json",
+      "https://duckduckgo.com/?q=GCRcoin+official+website",
+      "https://github.com/search?q=GCRcoin"
     ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
-  },
-  {
-    "coinType": 50,
-    "symbol": "NVC",
-    "displayName": "Novacoin",
-    "missingFields": [
-      "references.officialDocs"
-    ],
-    "sourcesChecked": [
-      "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
-      "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
-    ],
-    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
-    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
+    "whyUnresolved": "No high-confidence project-controlled official documentation source was found after active public-web verification (official site/docs/GitHub/foundation/spec).",
+    "recommendedNextStep": "Locate a clearly project-controlled website/docs/repository for this legacy asset, then re-run official-sources; otherwise keep unresolved."
   },
   {
     "coinType": 51,
