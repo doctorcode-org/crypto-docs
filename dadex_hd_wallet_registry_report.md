@@ -1,6 +1,6 @@
 # Dadex HD Wallet Registry Verification Report
 
-- Generated at: 2026-03-29T19:36:16Z
+- Generated at: 2026-03-29T20:25:00Z
 - Total entries in registry: 1321
 - Processed entries: 1321
 - Resolved entries: 206
@@ -14,3 +14,4 @@
 
 ## Batch execution
 - Corrective full pass covered all entries in sequential batches; each batch explicitly executed: canonical -> official-sources -> classification.
+- Incremental corrective batch on 2026-03-29 processed 25 unresolved entries (coinType 1,11,12,13,15,16,18,19,23,25,26,27,29,30,31,32,33,34,35,36,37,38,39,40,41) with explicit subagent order canonical -> official-sources -> classification; newly resolved: 0.

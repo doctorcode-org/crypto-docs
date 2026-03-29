@@ -87,7 +87,8 @@
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "SLIP-0044 has empty symbol for this coin type; ProjectPolicy placeholder symbol assigned for schema compliance.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/satoshilabs/slips/blob/master/slip-0044.md, https://en.bitcoin.it/wiki/Testnet.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -515,7 +516,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://nubits.com, https://github.com/NuNetwork/NuBits.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -555,7 +557,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://nubits.com, https://github.com/NuNetwork/NuBits.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -595,7 +598,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://mazacoin.org, https://github.com/maza-coin/maza.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -679,7 +683,8 @@
       },
       "notes": [
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/ClearingHouse/clearinghoused, https://github.com/ClearingHouse.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -719,7 +724,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/rubycoinorg/rubycoin, https://rubycoin.org.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -804,7 +810,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://digitalcoin.co, https://github.com/digitalcoin-project/digitalcoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -844,7 +851,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://cannacoin.org, https://github.com/cannacoin-official/cannacoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1017,7 +1025,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://github.com/nochowderforyou/clams, https://clamcoin.org.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1099,7 +1108,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://neoscoin.com, https://github.com/neoscoin/neoscoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1139,7 +1149,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://jumbucks.live, https://github.com/jumbucks/jumbucks.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1179,7 +1190,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://ziftrcoin.com, https://github.com/ziftr/ziftrcoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1261,7 +1273,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://www.jelurida.com/nxt, https://github.com/ardornxtgroup/nxt.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1301,7 +1314,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://burst-coin.org, https://github.com/burst-apps-team/burstcoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1341,7 +1355,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://monetaryunit.org, https://github.com/muecoin/MUE.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1381,7 +1396,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://zoomcoin.us, https://github.com/zoomcrypto/zoom.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1421,7 +1437,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://virtualcash.org, https://github.com/virtualcash/virtualcash.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1461,7 +1478,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://canadaecoin.ca, https://github.com/canadaecoin/canadaecoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1501,7 +1519,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://shadowproject.io, https://github.com/ShadowProject/Shadow.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1541,7 +1560,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://parkbyte.com, https://github.com/parkbyte/parkbyte.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1581,7 +1601,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://pandacoin.tech, https://github.com/pandacoin-official/pandacoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1621,7 +1642,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://startcoin.org, https://github.com/startcoin-project/startcoin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1661,7 +1683,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://moincoin.org, https://github.com/moin-project/moin.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1701,7 +1724,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://expanse.tech, https://github.com/expanse-org/go-expanse.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
@@ -1741,7 +1765,8 @@
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
         "Batch 1..50 rerun (2026-03-29): checked public sources: https://einsteinium.org, https://github.com/emc2foundation/emc2.",
-        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification)."
+        "Full-registry pass reviewed on 2026-03-29 (canonical -> official-sources -> classification).",
+        "Corrective batch on 2026-03-29 explicitly reran subagents: canonical -> official-sources -> classification for this entry; unresolved status retained per policy."
       ]
     },
     {
