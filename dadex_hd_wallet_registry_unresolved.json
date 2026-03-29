@@ -288,9 +288,37 @@
       "displayName": "Shreeji",
       "checkedSources": [
         "https://shreejicoin.org",
-        "https://github.com/shreejicoin/shreeji"
+        "https://github.com/shreejicoin/shreeji",
+        "https://github.com/SMJBIT/SHREEJI",
+        "https://raw.githubusercontent.com/SMJBIT/SHREEJI/master/README.md",
+        "https://github.com/SHRIREMA/shreeji",
+        "https://raw.githubusercontent.com/SHRIREMA/shreeji/master/README.md",
+        "http://www.smcapl.com",
+        "https://www.smcapl.com"
       ],
-      "reason": "No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources."
+      "reason": "Public-web discovery found a strong historical candidate repository (SMJBIT/SHREEJI) that links to smcapl.com, but official website/docs are not currently verifiable (403) and project ownership cannot be conclusively established.",
+      "rejectedCandidateSources": [
+        {
+          "url": "https://github.com/SHRIREMA/shreeji",
+          "reason": "Repository has no project metadata/homepage and README is generic; ownership cannot be tied to SHREEJI project with high confidence."
+        },
+        {
+          "url": "http://www.smcapl.com",
+          "reason": "Repository-listed website is currently unreachable for verification (HTTP 403), so project-controlled docs could not be confirmed."
+        },
+        {
+          "url": "https://www.smcapl.com",
+          "reason": "HTTPS endpoint also returns HTTP 403; unable to verify official documentation content or ownership claims."
+        },
+        {
+          "url": "https://shreejicoin.org",
+          "reason": "Domain could not be validated as active project-controlled documentation in this pass."
+        },
+        {
+          "url": "https://github.com/shreejicoin/shreeji",
+          "reason": "Candidate repository checked previously but could not be validated as clearly project-controlled from available metadata."
+        }
+      ]
     },
     {
       "coinType": 49,
