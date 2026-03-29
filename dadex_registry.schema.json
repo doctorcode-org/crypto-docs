@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dadex.dev/schemas/registry.schema.json",
+  "title": "Dadex HD Wallet Registry",
+  "type": "object",
+  "required": ["schemaVersion", "entries"],
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "sourceOfTruth": {
+      "type": "object",
+      "properties": {
+        "slip44": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entry"
+      }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": [
+        "key",
+        "displayName",
+        "symbol",
+        "family",
+        "protocolStack",
+        "binding",
+        "address",
+        "lifecycle",
+        "references"
+      ],
+      "properties": {
+        "key": { "type": "string", "minLength": 1 },
+        "displayName": { "type": "string", "minLength": 1 },
+        "symbol": { "type": "string", "minLength": 1 },
+        "family": { "type": "string" },
+        "protocolStack": { "type": "string" },
+        "coinType": {
+          "type": ["integer", "null"],
+          "minimum": 0
+        },
+        "binding": {
+          "$ref": "#/$defs/binding"
+        },
+        "address": {
+          "$ref": "#/$defs/address"
+        },
+        "coverage": {
+          "$ref": "#/$defs/coverage"
+        },
+        "lifecycle": {
+          "$ref": "#/$defs/lifecycle"
+        },
+        "references": {
+          "$ref": "#/$defs/references"
+        },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": false
+    },
+    "binding": {
+      "type": "object",
+      "required": ["kind", "canonicalChainKey", "confidence"],
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": ["Primary", "Alias", "Legacy"]
+        },
+        "canonicalChainKey": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["Official", "ProjectPolicy", "Inferred"]
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "address": {
+      "type": "object",
+      "required": [
+        "profileKey",
+        "adapter",
+        "supportsAddressGeneration",
+        "supportsAddressValidation",
+        "supportsDerivationPath"
+      ],
+      "properties": {
+        "profileKey": { "type": "string", "minLength": 1 },
+        "adapter": { "type": "string", "minLength": 1 },
+        "supportsAddressGeneration": { "type": "boolean" },
+        "supportsAddressValidation": { "type": "boolean" },
+        "supportsDerivationPath": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "assetSupportPlanned": { "type": "boolean" },
+        "transactionSupportPlanned": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "lifecycle": {
+      "type": "object",
+      "required": ["status", "isDead", "isProtocolOnly"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["Active", "Deprecated", "Dead", "ProtocolOnly", "Unsupported"]
+        },
+        "isDead": { "type": "boolean" },
+        "isProtocolOnly": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "references": {
+      "type": "object",
+      "required": ["officialDocs", "specs", "explorers", "repositories"],
+      "properties": {
+        "officialDocs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "specs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "explorers": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "repositories": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
