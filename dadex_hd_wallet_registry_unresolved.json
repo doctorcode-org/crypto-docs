@@ -10,8 +10,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 4,
@@ -24,8 +24,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 6,
@@ -38,8 +38,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 8,
@@ -52,8 +52,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 9,
@@ -66,8 +66,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 10,
@@ -80,8 +80,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 11,
@@ -94,8 +94,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 12,
@@ -108,8 +108,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 13,
@@ -122,8 +122,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 15,
@@ -136,8 +136,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 16,
@@ -150,8 +150,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 18,
@@ -164,8 +164,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 19,
@@ -178,8 +178,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 21,
@@ -192,8 +192,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 23,
@@ -206,8 +206,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 24,
@@ -220,8 +220,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 25,
@@ -234,8 +234,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 26,
@@ -248,8 +248,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 27,
@@ -262,8 +262,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 28,
@@ -276,8 +276,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 29,
@@ -290,8 +290,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 30,
@@ -304,8 +304,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 31,
@@ -318,8 +318,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 32,
@@ -332,8 +332,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 33,
@@ -346,8 +346,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 34,
@@ -360,8 +360,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 35,
@@ -374,8 +374,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 36,
@@ -388,8 +388,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 37,
@@ -402,8 +402,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 38,
@@ -416,8 +416,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 39,
@@ -430,8 +430,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 40,
@@ -444,8 +444,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 41,
@@ -458,8 +458,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 43,
@@ -472,8 +472,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 44,
@@ -486,8 +486,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 45,
@@ -500,8 +500,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 46,
@@ -514,8 +514,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 47,
@@ -528,8 +528,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 48,
@@ -542,8 +542,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 49,
@@ -556,8 +556,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 50,
@@ -570,8 +570,8 @@
       "https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md",
       "https://raw.githubusercontent.com/trustwallet/wallet-core/master/registry.json"
     ],
-    "whyUnresolved": "Missing high-confidence enrichment fields after canonical and enrichment pass.",
-    "recommendedNextStep": "Manual official-source verification (project docs/site/repo) and registry update."
+    "whyUnresolved": "No project-controlled official documentation source found in configured datasets (SLIP-0044 + Trust Wallet registry).",
+    "recommendedNextStep": "Add official project documentation URL from a project-controlled source snapshot, or keep unresolved."
   },
   {
     "coinType": 51,
@@ -6218,7 +6218,7 @@
   {
     "coinType": 511,
     "symbol": "OTC",
-    "displayName": "\u03b8",
+    "displayName": "θ",
     "missingFields": [
       "references.officialDocs"
     ],
@@ -14506,7 +14506,7 @@
   {
     "coinType": 26417,
     "symbol": "G1",
-    "displayName": "\u011e1",
+    "displayName": "Ğ1",
     "missingFields": [
       "references.officialDocs"
     ],
