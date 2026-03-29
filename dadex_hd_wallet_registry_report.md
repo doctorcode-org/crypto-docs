@@ -4,13 +4,14 @@
 - Scope: coinType 1..50 only
 - Date: 2026-03-29
 - Entries in batch 1..50: 50
-- Entries in 1..50 with at least one officialDocs URL: 0
+- Entries in 1..50 with at least one officialDocs URL: 20
 - Unresolved entries in 1..50: 30
 
 ## Top unresolved reasons (1..50)
-- 28: No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources.
+- 27: No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources.
 - 1: Testnet placeholder from SLIP-0044, not a production asset with project-owned official documentation endpoint.
 - 1: Marked dead in SLIP-0044; no maintained project-controlled docs endpoint found in checked sources.
+- 1: Unresolved after active public-web discovery: strongest candidate is SMJBIT/SHREEJI, but final official verification is incomplete because the linked site responds "HTTP/1.1 403 Forbidden" and no alternative project-controlled docs endpoint could be confirmed.
 
 ## Unresolved entries (1..50, from unresolved JSON)
 
@@ -183,10 +184,28 @@
   - https://github.com/poswallet/posw
 
 ### 48 SHR — Shreeji
-- Reason: No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources.
+- Reason: Unresolved after active public-web discovery: strongest candidate is SMJBIT/SHREEJI, but final official verification is incomplete because the linked site responds "HTTP/1.1 403 Forbidden" and no alternative project-controlled docs endpoint could be confirmed.
+- Search queries tried:
+  - "SHREEJI" cryptocurrency official docs
+  - "SHREEJI" official site
+  - "SHREEJI" github
+  - "SHR" "Shreeji" docs
+  - "SMJBIT/SHREEJI" "smcapl.com"
 - Checked sources:
   - https://shreejicoin.org
   - https://github.com/shreejicoin/shreeji
+  - https://github.com/SMJBIT/SHREEJI
+  - https://raw.githubusercontent.com/SMJBIT/SHREEJI/master/README.md
+  - https://github.com/SHRIREMA/shreeji
+  - https://raw.githubusercontent.com/SHRIREMA/shreeji/master/README.md
+  - http://www.smcapl.com
+  - https://www.smcapl.com
+- Rejected candidate sources:
+  - https://github.com/SHRIREMA/shreeji: Repository has no project metadata/homepage and README is generic; ownership cannot be tied to SHREEJI project with high confidence.
+  - http://www.smcapl.com: Verification blocked: endpoint returned "HTTP/1.1 403 Forbidden", so official docs/ownership could not be confirmed.
+  - https://www.smcapl.com: Verification blocked: endpoint returned "HTTP/1.1 403 Forbidden", so official docs/ownership could not be confirmed.
+  - https://shreejicoin.org: Domain could not be validated as active project-controlled documentation in this pass.
+  - https://github.com/shreejicoin/shreeji: Candidate repository checked previously but could not be validated as clearly project-controlled from available metadata.
 
 ### 49 GCR — Global Currency Reserve (GCRcoin)
 - Reason: No reachable project-controlled website/docs/repo with clear ownership could be confidently verified from checked sources.

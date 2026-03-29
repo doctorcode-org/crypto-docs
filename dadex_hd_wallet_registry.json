@@ -1980,11 +1980,15 @@
           "https://github.com/satoshilabs/slips/blob/master/slip-0044.md"
         ],
         "explorers": [],
-        "repositories": []
+        "repositories": [
+          "https://github.com/SMJBIT/SHREEJI"
+        ]
       },
       "notes": [
         "Family/adapter assignment is a conservative fallback and should be reviewed before production enablement.",
-        "Batch 1..50 rerun (2026-03-29): checked public sources: https://shreejicoin.org, https://github.com/shreejicoin/shreeji."
+        "Batch 1..50 rerun (2026-03-29): discovery queries included \"SHREEJI cryptocurrency official docs\", \"SHREEJI official site\", \"SHREEJI github\", \"SHR Shreeji docs\", and \"SMJBIT/SHREEJI smcapl.com\".",
+        "Checked sources: https://shreejicoin.org, https://github.com/shreejicoin/shreeji, https://github.com/SMJBIT/SHREEJI, https://github.com/SHRIREMA/shreeji, http://www.smcapl.com, https://www.smcapl.com.",
+        "SMJBIT/SHREEJI retained as high-confidence historical repository candidate; linked website verification incomplete because responses returned \"HTTP/1.1 403 Forbidden\"."
       ]
     },
     {
